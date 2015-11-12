@@ -7,15 +7,16 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Jonathon Bechtel 
+tagline:          'A grad student blog'
+description:      'Join me on my journey through the triumphs and tribulations of graduate life.'
+url:              http://jonathonbechtel.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jonathon Bechtel'
+  url:            jonathonbechtel.com 
+
 
 paginate:         5
 gems: [jekyll-paginate, jekyll-gist]
@@ -25,4 +26,4 @@ paginate_path: "page:num"
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://jbechtel.github.io

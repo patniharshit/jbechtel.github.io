@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am a graduate student studying computational materials science. Density functional theory works really well for materials at absolute zero, but predicting materials properties at finite temperatures remains a big challenge. My interests involve extending first principles calculations to predict high temperature phase stability. Our groups technique of choice is the cluster expansion, which involves calculating interaction terms for pairs, triplets and higher-body terms.  
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I started this blog to provide a resource for other students and researchers who might run into the same technical issues that I do! Hopefully, youll find this blog helpful, and feel free to send me a message. 
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Bio 
 
-## Setup
+Currently I am a graduate student advised by Professor Anton Van der Ven at the University of California, Santa Barbara.
 
-Some fun facts about the setup of this project include:
+In 2012 I graduated from the University of Pittsburgh where I majored in applied math and chemistry.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I currently live in Santa Barbara, and, when I'm not at a computer, I am either riding my road bike, trying to learn new jazz tunes on guitar, or updating this blog.
 
 Thanks for reading!

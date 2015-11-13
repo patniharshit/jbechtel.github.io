@@ -9,11 +9,12 @@ permalink:        pretty
 # Setup
 title:            Jonathon Bechtel 
 tagline:          'A grad student blog'
-description:      'Join me on my journey through the triumphs and tribulations of graduate life.'
+description:      "Let's learn together"
 url:              http://jonathonbechtel.com
 baseurl:          /
 
 author:
+  gravatar_md5:  783fc5ac9e9762db9407533a116bef93
   name:           'Jonathon Bechtel'
   url:            jonathonbechtel.com 
 
@@ -26,4 +27,5 @@ paginate_path: "page:num"
 version:          2.1.0
 
 github:
-  repo:           https://jbechtel.github.io
+  repo:           https://github.com/jbechtel/jbechtel.github.io
+

@@ -11,10 +11,10 @@ I started this blog to provide a resource for other students and researchers who
 
 ## Bio 
 
-Currently I am a graduate student advised by Professor Anton Van der Ven at the University of California, Santa Barbara.
+Currently I am a graduate student advised by [Professor Anton Van der Ven](https://vandervengroup.materials.ucsb.edu/) at the University of California, Santa Barbara.
 
-In 2012 I graduated from the University of Pittsburgh where I majored in applied math and chemistry.
+In 2013 I graduated from the University of Pittsburgh where I majored in applied math and chemistry.
 
-I live in Santa Barbara, and, when I'm not at at work, I am either riding my road bike, trying to learn new jazz tunes on guitar, or updating this blog.
+I live in Santa Barbara, and, when I'm not at at work, I am either riding my road bike, trying to learn new jazz tunes on guitar, or updating this blog. I read Neal Stephenson, listen to The Bad Plus, and am amazed by group theory.
 
 Thanks for reading!

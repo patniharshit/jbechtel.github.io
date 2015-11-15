@@ -55,11 +55,30 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 0.7rem 1rem;
+  padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  overflow: hidden;
 }
-@media (min-width: 48em) {
+
+.sidebar-logo {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+@media (min-width: 48rem) {
+  .sidebar:hover {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 18.2rem;
+    text-align: left;
+    overflow-y: scroll;
+  }
+}
+
+@media (min-width: 48rem) {
   .sidebar {
     position: fixed;
     top: 0;
@@ -67,8 +86,22 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
+    overflow: hidden;
   }
+  .sidebar-logo {
+      float:left;
+      padding-left: 20px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  #contact-list {
+      float:left;
+      padding-left: 50px;
+      padding-top : -5px;
+      padding-bottom: 5px;
+    }
 }
+
 
 /* Sidebar links */
 .sidebar a {
@@ -111,14 +144,14 @@ a.sidebar-nav-item:focus {
  * contents to the bottom of the sidebar in tablets and up.
  */
 
-@media (min-width: 48em) {
+/*@media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
   }
-}
+}/*
 
 
 /* Container
@@ -254,3 +287,56 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Custom */
+.theme-custom .sidebar {
+
+  /* can be treated like a fallback */
+  /*background-color: #75b5aa;*/
+
+  /* will be "on top", if browser supports it */
+  /*background-image: linear-gradient(120deg, #B03DF1, #1271db);*/
+
+
+
+
+background: #1A2980 /* fallback for old browsers */
+background: -webkit-linear-gradient(120deg, #1A2980 , #26D0CE); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(120deg, #1A2980 , #26D0CE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+        
+
+
+  /* these will reset other properties, like background-position, but it does know what you mean */
+  /*background: red;*/
+  /*background: linear-gradient(red, orange);*/
+/*$primary-gradient: #B03DF1, $primary-color;
+$primary-color: #1271db;*/
+
+/*// Better default colors
+// Cool
+$aqua:  #7FDBFF;
+$blue:  #0074D9;
+$navy:  #001F3F;
+$teal:  #39CCCC;
+$green: #2ECC40;
+$olive: #3D9970;
+$lime:  #01FF70;
+// Warm
+$yellow:  #FFDC00;
+$orange:  #FF851B;
+$red:     #FF4136;
+$fuchsia: #F012BE;
+$purple:  #B10DC9;
+$maroon:  #85144B;
+// Gray Scale
+$white:  #fff;
+$silver: #ddd;
+$grey:   #aaa;
+$black:  #111;*/
+}
+.theme-custom .content a,
+.theme-custom .related-posts li a:hover {
+  color: navy;
+}
+

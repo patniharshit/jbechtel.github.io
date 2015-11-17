@@ -72,7 +72,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18.2rem;
+    width: 17rem;
     text-align: left;
     overflow-y: scroll;
   }
@@ -84,7 +84,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 17rem;
     text-align: left;
     overflow: hidden;
   }
@@ -291,19 +291,14 @@ a.sidebar-nav-item:focus {
 /* Custom */
 .theme-custom .sidebar {
 
-  /* can be treated like a fallback */
-  /*background-color: #75b5aa;*/
-
-  /* will be "on top", if browser supports it */
-  /*background-image: linear-gradient(120deg, #B03DF1, #1271db);*/
-
-
-
-
 background: #1A2980 /* fallback for old browsers */
 background: -webkit-linear-gradient(120deg, #1A2980 , #26D0CE); /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(120deg, #1A2980 , #26D0CE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-        
+}
+.theme-custom .content a,
+.theme-custom .related-posts li a:hover {
+  color: #1A2980;
+}
         
 
 
@@ -334,9 +329,4 @@ $white:  #fff;
 $silver: #ddd;
 $grey:   #aaa;
 $black:  #111;*/
-}
-.theme-custom .content a,
-.theme-custom .related-posts li a:hover {
-  color: #1A2980;
-}
 

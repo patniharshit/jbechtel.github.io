@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -7,19 +7,19 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Jonathon Bechtel 
-tagline:          'A grad student blog'
-description:      "Let's learn together"
-url:              http://jonathonbechtel.com
+title:            Harshit Patni
+tagline:          'Undergrad at IIIT-Hyderabad'
+description:      "GSoC 17 student developer working on 2d Color Maps with Matplotlib, NumFOCUS"
+#url:              http://jonathonbechtel.com
 baseurl:          /
 
 author:
   gravatar_md5:  783fc5ac9e9762db9407533a116bef93
-  name:           'Jonathon Bechtel'
+  name:           'Harshit Patni'
   url:            http://jonathonbechtel.com 
-  linkedin:       jonathonbechtel
-  github:         jbechtel
-  email:          jbechtel91@gmail.com
+  linkedin:       harshitpatni
+  github:         patniharshit
+  email:          patniharshit@gmail.com
 
 
 paginate:         5
@@ -29,6 +29,6 @@ paginate_path: "page:num"
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/jbechtel/jbechtel.github.io
+#github:
+#  repo:           https://github.com/jbechtel/jbechtel.github.io
 

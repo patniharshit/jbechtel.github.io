@@ -1,20 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
+permalink: /about/
 ---
+![pic](https://assets.entrepreneur.com/content/16x9/822/20141230193127-work.jpeg)
 
-I am a graduate student studying computational materials science. [Density functional theory](https://en.wikipedia.org/wiki/Density_functional_theory "DFT Wiki") works really well for materials at absolute zero, but predicting materials properties at finite temperatures remains a big challenge. My interests involve extending first principles calculations to predict high temperature phase stability. Our groups technique of choice is the cluster expansion, which involves calculating interaction terms for atomic pairs, triplets and higher-body terms within a bulk material.  
+Hi, I am Harshit Patni from Indore, India. A third year undergrad at International Institute of Information Technology, Hyderabad majoring in Computer Science. This summer I will be working as Google Summer of Code student with NumFocus (Matplotlib). 
 
-I started this blog to provide a resource for other students and researchers who might run into the same technical issues that I do! Hopefully, youll find this blog helpful, and feel free to send me a message. 
+Apart from coding, I am an avid reader and follower of Indian politics. Anytime you can find me sitting in a corner and reading some ebook on my mobile. I also enjoy playing chess and Counter Strike although people tell me I am just a noob in both :D
 
+### Contact me
 
+Harshit Patni :
 
-## Bio 
+Drop a mail at [patniharshit@gmail.com](mailto:patniharshit@gmail.com)
 
-Currently I am a graduate student advised by [Professor Anton Van der Ven](https://vandervengroup.materials.ucsb.edu/) at the University of California, Santa Barbara.
-
-In 2013 I graduated from the University of Pittsburgh where I majored in applied math and chemistry.
-
-I live in Santa Barbara, and, when I'm not at at work, I am either riding my road bike, trying to learn new jazz tunes on guitar, or updating this blog. I read Neal Stephenson, listen to The Bad Plus, and am amazed by group theory.
-
-Thanks for reading!
+View my projects at [github/patniharshit](https://github.com/patniharshit)

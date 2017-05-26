@@ -291,13 +291,13 @@ a.sidebar-nav-item:focus {
 /* Custom */
 .theme-custom .sidebar {
 
-background: #1A2980 /* fallback for old browsers */
-background: -webkit-linear-gradient(120deg, #1A2980 , #26D0CE); /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(120deg, #1A2980 , #26D0CE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #2F7336;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #AA3A38, #2F7336);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #AA3A38, #2F7336); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .theme-custom .content a,
 .theme-custom .related-posts li a:hover {
-  color: #1A2980;
+  color: #2F7336;
 }
         
 

@@ -6,7 +6,7 @@ comments: True
 tags: Blog 
 ---
 
-![gsoc](https://lh5.googleusercontent.com/_uwWzNbZjbpgSICWTqjo2Yn-b3lzj2y-Um8XbhXyhRAMecshGI0PnGK6N0fU2IDFTFvdg7d3kbKq-5CQKYgtpavztSCeC33QGvs2-AHM0csx5kc-RwleCIHysG47FfrH6uvDl82Z)
+![gsoc](https://goo.gl/photos/s1haKhBBj3hEcQGQA)
 
 Hi,
 This is my first blog post, many more will follow. Here I will post about progress of my project along with some random posts about life,

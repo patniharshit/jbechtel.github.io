@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Community Bonding Period
-description: A summary of how I spend community bonding period of GSoC 17
+title: Community Bonding Period (Week 1)
+description: A summary of how I spent first week of community bonding period of GSoC 17
 comments: True
 tags: Blog
 ---
@@ -16,7 +16,7 @@ development workflow of Matplotlib and had set up development
 environment long before in Feburary.
 
 ## First Week
-####### (5/5 to 12/5)
+###### (5/5 to 12/5)
 
 First week was spent in reading about colormaps, how they are created, why some
 colormaps are bad, perceptual colormaps etc etc. Although there was ample
@@ -32,7 +32,7 @@ colormaps are created in general.
 Watch this entertaining talk given at SciPy 2015 about default colormap in
 matplotlib.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xAoljeRJ3lU">
-<img src="http://img.youtube.com/vi/xAoljeRJ3lU/0.jpg" alt="Default colormap for matplotlib" width="240" height="180" border="10" /></a>
+<img src="http://img.youtube.com/vi/xAoljeRJ3lU/0.jpg" alt="Default colormap for matplotlib" /></a>
 
 Here are some more which I recommend watching -
 * [Perceptions of Matplotlib colormaps](https://www.youtube.com/watch?v=rkDgBvT-giw&t=23s)

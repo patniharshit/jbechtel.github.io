@@ -6,7 +6,7 @@ comments: True
 tags: Blog 
 ---
 
-![gsoc](http://imgur.com/a/t4xcZ)
+![gsoc](http://i.imgur.com/MkQZ9Ck.jpg)
 
 Hi,
 This is my first blog post, many more will follow. Here I will post about progress of my project along with some random posts about life,

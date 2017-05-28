@@ -6,7 +6,7 @@ comments: True
 tags: Blog 
 ---
 
-![gsoc](https://goo.gl/photos/s1haKhBBj3hEcQGQA)
+![gsoc](http://imgur.com/a/t4xcZ)
 
 Hi,
 This is my first blog post, many more will follow. Here I will post about progress of my project along with some random posts about life,
@@ -21,6 +21,7 @@ felt my proposal wasn't good enough. Maybe it wasn't or maybe it was but to my a
 selected me. It is going to be a challenging task for sure. Hoping to have lots of fun and looking forward to learn many new things this
 summer. 
 
+You can see my proposal ![here](https://drive.google.com/file/d/0B2ILT4mYuNUCczVxVDNGUnpuOFU/view?usp=sharing)
 More on my journey in open source in next post.
 
 Harshit

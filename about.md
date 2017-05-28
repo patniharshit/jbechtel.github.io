@@ -3,7 +3,6 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-![pic](https://assets.entrepreneur.com/content/16x9/822/20141230193127-work.jpeg)
 
 Hi, I am Harshit Patni from Indore, India. A third year undergrad at International Institute of Information Technology, Hyderabad majoring in Computer Science. This summer I will be working as Google Summer of Code student with NumFocus (Matplotlib). 
 

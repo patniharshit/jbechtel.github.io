@@ -6,7 +6,7 @@ comments: True
 tags: Blog 
 ---
 
-![gsoc](https://lh5.googleusercontent.com/_uwWzNbZjbpgSICWTqjo2Yn-b3lzj2y-Um8XbhXyhRAMecshGI0PnGK6N0fU2IDFTFvdg7d3kbKq-5CQKYgtpavztSCeC33QGvs2-AHM0csx5kc-RwleCIHysG47FfrH6uvDl82Z)
+![gsoc](http://imgur.com/a/t4xcZ)
 
 Hi,
 This is my first blog post, many more will follow. Here I will post about progress of my project along with some random posts about life,
@@ -20,6 +20,9 @@ One month back when I submitted my proposal for GSoC to Matplotlib, NumFocus I n
 felt my proposal wasn't good enough. Maybe it wasn't or maybe it was but to my ashtonishment my mentors showed confidence in me and
 selected me. It is going to be a challenging task for sure. Hoping to have lots of fun and looking forward to learn many new things this
 summer. 
+
+You can see my proposal <a href="https://drive.google.com/file/d/0B2ILT4mYuNUCczVxVDNGUnpuOFU/view?usp=sharing">here</a>
+
 
 More on my journey in open source in next post.
 

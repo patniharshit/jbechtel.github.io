@@ -19,5 +19,5 @@ lines and in some case will inherit from them.
 * Fixed an issue by adding test for `_num_to_string` method used in `__call__`
   of `LogFormatter` [#8598](https://github.com/matplotlib/matplotlib/pull/8598)
 * Removed resolution kwarg from PolarAxes 
-  [8643](https://github.com/matplotlib/matplotlib/pull/8643)
+  [#8643](https://github.com/matplotlib/matplotlib/pull/8643)
 * Debugged failing tests because of segmentation fault in Qt backend

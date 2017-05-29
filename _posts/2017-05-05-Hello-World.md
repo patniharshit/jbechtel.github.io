@@ -27,7 +27,7 @@ showed confidence in me and selected me. It is going to be a challenging task
 for sure. Hoping to have lots of fun and looking forward to learning many new
 things this summer.
 
-You can see my proposal [here](patni-harshit.pdf)
+You can see my proposal [here](https://github.com/patniharshit/patniharshit.github.io/blob/master/patni-harshit.pdf)
 
 More on my journey in open source in next post.
 

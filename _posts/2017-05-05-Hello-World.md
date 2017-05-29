@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 description: First blog post
 comments: True
-tags: Blog 
+tags: blog 
 ---
 
 ![gsoc](http://i.imgur.com/MkQZ9Ck.jpg)
@@ -19,7 +19,7 @@ did was to set up a blog.
 One month back when I submitted my proposal for GSoC to Matplotlib, NumFocus I never thought that I will be accepted. All this time I
 felt my proposal wasn't good enough. Maybe it wasn't or maybe it was but to my ashtonishment my mentors showed confidence in me and
 selected me. It is going to be a challenging task for sure. Hoping to have lots of fun and looking forward to learn many new things this
-summer. 
+summer.
 
 You can see my proposal [here](https://github.com/patniharshit/patniharshit.github.io/blob/master/patni-harshit.pdf)
 

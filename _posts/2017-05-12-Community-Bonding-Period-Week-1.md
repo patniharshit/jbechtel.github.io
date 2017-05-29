@@ -3,7 +3,7 @@ layout: post
 title: Community Bonding Period (Week 1)
 description: A summary of how I spent first week of community bonding period of GSoC 17
 comments: True
-tags: Blog
+tags: blog, community-bonding
 ---
 
 Community bonding period is a month for students to get acquainted with their

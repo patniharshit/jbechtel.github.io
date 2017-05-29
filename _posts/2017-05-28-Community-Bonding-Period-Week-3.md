@@ -27,14 +27,15 @@ find any ready made look up tables for 2D colormaps on internet So first task
 became creating some colormaps by simply combining uniformly varying alpha
 vector with an existing colormap in matplotlib.
 
-'''
+```
 def TwoDCM(gradient, alpha, cm):
     ret = cm(gradient)
     ret[:, 3] = alpha
     return ret
-'''
+```
 
-Resulting bivariate colormaps -
+Resulting bivariate colormaps are shown below. These can be considered as
+prototype of my project too.
 
 * Viridis
 ![viridis_bivariate](http://i.imgur.com/evlN286.png)

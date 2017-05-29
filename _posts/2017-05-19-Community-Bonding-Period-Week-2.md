@@ -1,23 +1,46 @@
 ---
 layout: post
-title: Community Bonding Period (Week 2)
-description: A summary of how I spent second week of community bonding period of GSoC 17
+title: Community Bonding Period (Week 3)
+description: A summary of how I spent third week of community bonding period of GSoC 17
 comments: True
 tags: Blog
 ---
 
-## Second Week
-###### (12/5 to 19/5)
+## Third Week
+###### (20/5 to 28/5)
 
-This week mentor suggested me to go through the existing colormap code in
-Matplotlib. New classes for 2D Colormaps will also be developed on similar
-lines and in some case will inherit from them.
+Having read about colormaps and exsiting code I had got a fair idea of what is
+needed to done. So I started planning for the coding period in the third week
+and initiated discussion with mentors regarding how to approach the project.
 
-* Went through cm.py, colors.py. Trying to understand how 1D normalizations
-  works, how user data is mapped to a colormap etc
-* Halfway through colorbar.py
-* Converted `colorbar_only` example in matplotlib gallery into a tutorial
-  [#8600](https://github.com/matplotlib/matplotlib/pull/8600)
-* Fixed an issue by adding test for `_num_to_string` method used in `__call__`
-  of `LogFormatter` [#8598](https://github.com/matplotlib/matplotlib/pull/8598)
-* Debugged failing tests because of segmentation fault in qt backend
+* `Bivariate` colormap is more widely used term than 2D color maps
+* It was decided that  2D/Bivariate will be in core library as a part of color
+  and colorbar instead of exsiting as a standalone toolkit that lives under
+  matplotlib repo.
+* Any new class would subclass from existing cmap and norm because a lot of
+  the underlying stuff is the same
+* 2D normalizations that will work as independent 1D normalizations using
+  existing normalizers on two variables
+
+Testing those normalizers required ready made 2D colormap .But I wasn't able to
+find any ready made look up tables for 2D colormaps on internet So first task
+became creating some colormaps by simply combining uniformly varying alpha
+vector with an existing colormap in matplotlib.
+
+'''
+def TwoDCM(gradient, alpha, cm):
+    ret = cm(gradient)
+    ret[:, 3] = alpha
+    return ret
+'''
+
+Resulting bivariate colormaps -
+
+* Viridis
+![viridis_bivariate](http://i.imgur.com/evlN286.png)
+
+* Cool
+![cool_bivariate](http://i.imgur.com/wPeWOKj.png)
+
+* Plasma
+![plasma_bivariate](http://i.imgur.com/OhzJGy8.png)

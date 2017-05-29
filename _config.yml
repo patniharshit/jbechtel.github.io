@@ -4,16 +4,16 @@ permalink:        pretty
 
 # Setup
 title:            Harshit Patni
-tagline:          'Undergrad at IIIT-Hyderabad'
+tagline:          ''
 description:      "GSoC 17 student developer working on 2d Color Maps with Matplotlib, NumFOCUS"
 #url:              http://jonathonbechtel.com
 baseurl:          /
 comments:         true
 
 author:
-  gravatar_md5:  783fc5ac9e9762db9407533a116bef93
+  #gravatar_md5:  783fc5ac9e9762db9407533a116bef93
   name:           'Harshit Patni'
-  url:            http://jonathonbechtel.com 
+  #url:            http://jonathonbechtel.com 
   linkedin:       patniharshit
   github:         patniharshit
   email:          patniharshit@gmail.com

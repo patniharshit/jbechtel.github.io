@@ -4,7 +4,7 @@ layout: post
 +title: Community Bonding Period (Week 2)
 description: A summary of how I spent second week of community bonding period of GSoC 17
 comments: True
-tags: Blog
+tags: blog, community-bonding
 ---
 
 This week mentor suggested me to go through the existing colormap code in
@@ -18,4 +18,4 @@ lines and in some case will inherit from them.
   [#8600](https://github.com/matplotlib/matplotlib/pull/8600)
 * Fixed an issue by adding test for `_num_to_string` method used in `__call__`
   of `LogFormatter` [#8598](https://github.com/matplotlib/matplotlib/pull/8598)
-* Debugged failing tests because of segmentation fault in qt backend
+* Debugged failing tests because of segmentation fault in Qt backend

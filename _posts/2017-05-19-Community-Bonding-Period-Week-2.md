@@ -1,7 +1,6 @@
 ---
 layout: post
--title: Community Bonding Period (Week 1)
-+title: Community Bonding Period (Week 2)
+title: Community Bonding Period (Week 2)
 description: A summary of how I spent second week of community bonding period of GSoC 17
 comments: True
 tags: blog, community-bonding

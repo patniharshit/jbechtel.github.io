@@ -31,26 +31,26 @@ shared on a ![blog](http://graphics.cs.wisc.edu/WP/vis10/archives/998-reading-9-
 of some data visualization class. I started reading four of them and by far I have completed
 reading three.
 
-* ![Quantitative Texton Sequences for Legible Bivariate Maps, Colin Ware](http://ieeexplore.ieee.org/document/5290769/?tp=&arnumber=5290769)
-- This paper dwells into an interesting way to map the second variable to a `QtonS` or
+### ![Quantitative Texton Sequences for Legible Bivariate Maps, Colin Ware](http://ieeexplore.ieee.org/document/5290769/?tp=&arnumber=5290769)
+This paper dwells into an interesting way to map the second variable to a `QtonS` or
 in simple language some kind of sequence of glyphs instead of alpha which is what I have been doing.
 
 ![qtons](https://www.computer.org/cms/Computer.org/dl/trans/tg/2009/06/figures/ttg20090615232c.gif)
 
-* Rheingans, Task-based Color Scale Design In Proceedings Applied Image and Pattern Recognition
-- This paper listed, classified and considered pros and cons of various types of colormaps
-  suiting for different tasks.
+### Rheingans, Task-based Color Scale Design In Proceedings Applied Image and Pattern Recognition
+This paper listed, classified and considered pros and cons of various types of colormaps
+suiting for different tasks.
 
-* ![Daniel A. Keim, “Designing Pixel-Oriented Visualization Techniques: Theory and Applications](http://fusion.cs.uni-magdeburg.de/pubs/TVCG00.pdf)
-- This paper gave me a new idea to improve upon what the static bivariate map. This involves
-  creating a bivariate colormap as a weighted average of two univariate colormaps and then
-  providing a physical knob to user to slide to change the weight of different univariates 
-  in bivariate map. Keeping slider on extremes will simply produce univariate maps. This
-  gives total independence to user to analyze the different variables combined as well as 
-  seperately. So if any features of a variables are hidden or lost in bivariate mapping then
-  user can simply observe the variable independently without having to plot it seprately. 
-  Lets see how things work out with project timeline, I would definitly like to see this
-  feature added on top of what I have promised as GSoC project if time permits.
+### ![Daniel A. Keim, “Designing Pixel-Oriented Visualization Techniques: Theory and Applications](http://fusion.cs.uni-magdeburg.de/pubs/TVCG00.pdf)
+This paper gave me a new idea to improve upon what the static bivariate map. This involves
+creating a bivariate colormap as a weighted average of two univariate colormaps and then
+providing a physical knob to user to slide to change the weight of different univariates 
+in bivariate map. Keeping slider on extremes will simply produce univariate maps. This
+gives total independence to user to analyze the different variables combined as well as 
+seperately. So if any features of a variables are hidden or lost in bivariate mapping then
+user can simply observe the variable independently without having to plot it seprately. 
+Lets see how things work out with project timeline, I would definitly like to see this
+feature added on top of what I have promised as GSoC project if time permits.
 
 
 #### Plot of some structured data with bivariate colormap

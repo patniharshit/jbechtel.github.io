@@ -26,7 +26,7 @@ bivariate mapping comes up in matplotlib which will be coming in upcoming weeks.
 
 ## Second Week
 
-My mentor pointed me to some research papers related to bivariated/multivariate mappings
+My mentor pointed me to some research papers related to bivariate/multivariate mappings
 shared on a [blog](http://graphics.cs.wisc.edu/WP/vis10/archives/998-reading-9-bi-variate-color-mappings) 
 of some data visualization class. I started reading four of them and by far I have completed
 reading three.
@@ -42,7 +42,7 @@ This paper listed, classified and considered pros and cons of various types of c
 suiting for different tasks.
 
 #### [Daniel A. Keim, “Designing Pixel-Oriented Visualization Techniques: Theory and Applications](http://fusion.cs.uni-magdeburg.de/pubs/TVCG00.pdf)
-This paper gave me a new idea to improve upon what the static bivariate map. This involves
+This paper gave me a new idea to improve upon the static bivariate map. This involves
 creating a bivariate colormap as a weighted average of two univariate colormaps and then
 providing a physical knob to user to slide to change the weight of different univariates 
 in bivariate map. Keeping slider on extremes will simply produce univariate maps. This

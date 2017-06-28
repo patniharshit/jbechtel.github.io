@@ -13,7 +13,7 @@ temperature with surface pressure. Although 2D colorbar nowhere near perfect but
 I will try to come back to 2D colorbar later in the project once I have some
 basic functionality ready with matplotlib.
 
-[air_pres](http://i.imgur.com/C0HN5he.png)
+![air_pres](http://i.imgur.com/C0HN5he.png)
 
 After this rest of the time I started working for integrating bivariate
 mapping with `imshow` function as a first pass and proof of concept. I have
